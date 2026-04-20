@@ -3,6 +3,10 @@
 [![pub package](https://img.shields.io/pub/v/smooth_toast.svg)](https://pub.dev/packages/smooth_toast)
 [![likes](https://img.shields.io/pub/likes/smooth_toast)](https://pub.dev/packages/smooth_toast)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eliazv/smooth_toast/master/gig.gif" width="60%" alt="Toast Preview" />
+</p>
+
 A smooth, reusable, highly customizable toast package for Flutter.
 
 Show elegant top or bottom overlay notifications with:
